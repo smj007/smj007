@@ -1,4 +1,8 @@
+<div align = "center">
+
 ### Howdy 👋:india:
+
+</div>
 
 I'm Sai Mitheran from Coimbatore, India and I'm an ECE undergrad at NIT Trichy, in my pre-final year. My interests include Deep Learning, Calculus, Cryptography and Tennis.
 
