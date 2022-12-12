@@ -15,9 +15,9 @@ I'm Sai Mitheran from Coimbatore, India and I'm a graduate student at Carnegie M
 </div>
 
 
-<h2  align="center">📫 Reach out to me on</h2>
+<h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/sai-mitheran-4b9422187/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/sai-mitheran/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:saimitheran06@gmail.com"><img src="https://img.shields.io/badge/-saimitheran06@gmail.com-c14438?style=flat-square&logo=Gmail&label=Gmail&logoColor=white&link=mailto:saimitheran06@gmail.com" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
