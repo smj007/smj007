@@ -4,7 +4,7 @@
 
 </div>
 
-I'm Sai Mitheran from Coimbatore, India and I'm a graduate student at Carnegie Mellon University. My interests include Deep Learning, Calculus, Cryptography and Tennis.
+I'm Sai Mitheran from Coimbatore, India and I'm a graduate student at Carnegie Mellon University.
 
 - 🔭 Currently working on: Deep Learning Research and Projects
 - 📫 How to reach me: Mail me at saimitheran06@gmail.com, hit the icon below!
