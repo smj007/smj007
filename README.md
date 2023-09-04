@@ -4,7 +4,7 @@
 
 </div>
 
-I'm Sai Mitheran from Coimbatore, India and I'm a graduate student at Carnegie Mellon University.
+I'm Sai Mitheran Jagadesh Kumar and I'm a second-year graduate student at Carnegie Mellon University.
 
 - 🔭 Currently working on: Efficient Deep Learning, Applied ML (Scene understanding + 2D/3D vision)
 - 📫 How to reach me: Mail me at saimitheran06@gmail.com, hit the icon below!
